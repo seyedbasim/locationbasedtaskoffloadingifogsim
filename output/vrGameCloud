@@ -1,0 +1,2034 @@
+Starting VRGame...
+Creating FogBroker with name broker
+Starting sensor with ID 7
+Starting sensor with ID 10
+Starting sensor with ID 13
+Starting sensor with ID 16
+Starting sensor with ID 19
+Starting sensor with ID 22
+Starting sensor with ID 25
+Starting sensor with ID 28
+Starting sensor with ID 31
+Starting sensor with ID 34
+Starting sensor with ID 38
+Starting sensor with ID 41
+Starting sensor with ID 44
+Starting sensor with ID 47
+Starting sensor with ID 50
+Starting sensor with ID 53
+Starting sensor with ID 56
+Starting sensor with ID 59
+Starting sensor with ID 62
+Starting sensor with ID 65
+Starting sensor with ID 69
+Starting sensor with ID 72
+Starting sensor with ID 75
+Starting sensor with ID 78
+Starting sensor with ID 81
+Starting sensor with ID 84
+Starting sensor with ID 87
+Starting sensor with ID 90
+Starting sensor with ID 93
+Starting sensor with ID 96
+Starting sensor with ID 100
+Starting sensor with ID 103
+Starting sensor with ID 106
+Starting sensor with ID 109
+Starting sensor with ID 112
+Starting sensor with ID 115
+Starting sensor with ID 118
+Starting sensor with ID 121
+Starting sensor with ID 124
+Starting sensor with ID 127
+Starting sensor with ID 131
+Starting sensor with ID 134
+Starting sensor with ID 137
+Starting sensor with ID 140
+Starting sensor with ID 143
+Starting sensor with ID 146
+Starting sensor with ID 149
+Starting sensor with ID 152
+Starting sensor with ID 155
+Starting sensor with ID 158
+Starting sensor with ID 162
+Starting sensor with ID 165
+Starting sensor with ID 168
+Starting sensor with ID 171
+Starting sensor with ID 174
+Starting sensor with ID 177
+Starting sensor with ID 180
+Starting sensor with ID 183
+Starting sensor with ID 186
+Starting sensor with ID 189
+Starting sensor with ID 193
+Starting sensor with ID 196
+Starting sensor with ID 199
+Starting sensor with ID 202
+Starting sensor with ID 205
+Starting sensor with ID 208
+Starting sensor with ID 211
+Starting sensor with ID 214
+Starting sensor with ID 217
+Starting sensor with ID 220
+Starting sensor with ID 224
+Starting sensor with ID 227
+Starting sensor with ID 230
+Starting sensor with ID 233
+Starting sensor with ID 236
+Starting sensor with ID 239
+Starting sensor with ID 242
+Starting sensor with ID 245
+Starting sensor with ID 248
+Starting sensor with ID 251
+Starting sensor with ID 255
+Starting sensor with ID 258
+Starting sensor with ID 261
+Starting sensor with ID 264
+Starting sensor with ID 267
+Starting sensor with ID 270
+Starting sensor with ID 273
+Starting sensor with ID 276
+Starting sensor with ID 279
+Starting sensor with ID 282
+Starting sensor with ID 286
+Starting sensor with ID 289
+Starting sensor with ID 292
+Starting sensor with ID 295
+Starting sensor with ID 298
+Starting sensor with ID 301
+Starting sensor with ID 304
+Starting sensor with ID 307
+Starting sensor with ID 310
+Starting sensor with ID 313
+Sending charac req to 3
+Sending charac req to 4
+Sending charac req to 5
+Sending charac req to 6
+Sending charac req to 9
+Sending charac req to 12
+Sending charac req to 15
+Sending charac req to 18
+Sending charac req to 21
+Sending charac req to 24
+Sending charac req to 27
+Sending charac req to 30
+Sending charac req to 33
+Sending charac req to 36
+Sending charac req to 37
+Sending charac req to 40
+Sending charac req to 43
+Sending charac req to 46
+Sending charac req to 49
+Sending charac req to 52
+Sending charac req to 55
+Sending charac req to 58
+Sending charac req to 61
+Sending charac req to 64
+Sending charac req to 67
+Sending charac req to 68
+Sending charac req to 71
+Sending charac req to 74
+Sending charac req to 77
+Sending charac req to 80
+Sending charac req to 83
+Sending charac req to 86
+Sending charac req to 89
+Sending charac req to 92
+Sending charac req to 95
+Sending charac req to 98
+Sending charac req to 99
+Sending charac req to 102
+Sending charac req to 105
+Sending charac req to 108
+Sending charac req to 111
+Sending charac req to 114
+Sending charac req to 117
+Sending charac req to 120
+Sending charac req to 123
+Sending charac req to 126
+Sending charac req to 129
+Sending charac req to 130
+Sending charac req to 133
+Sending charac req to 136
+Sending charac req to 139
+Sending charac req to 142
+Sending charac req to 145
+Sending charac req to 148
+Sending charac req to 151
+Sending charac req to 154
+Sending charac req to 157
+Sending charac req to 160
+Sending charac req to 161
+Sending charac req to 164
+Sending charac req to 167
+Sending charac req to 170
+Sending charac req to 173
+Sending charac req to 176
+Sending charac req to 179
+Sending charac req to 182
+Sending charac req to 185
+Sending charac req to 188
+Sending charac req to 191
+Sending charac req to 192
+Sending charac req to 195
+Sending charac req to 198
+Sending charac req to 201
+Sending charac req to 204
+Sending charac req to 207
+Sending charac req to 210
+Sending charac req to 213
+Sending charac req to 216
+Sending charac req to 219
+Sending charac req to 222
+Sending charac req to 223
+Sending charac req to 226
+Sending charac req to 229
+Sending charac req to 232
+Sending charac req to 235
+Sending charac req to 238
+Sending charac req to 241
+Sending charac req to 244
+Sending charac req to 247
+Sending charac req to 250
+Sending charac req to 253
+Sending charac req to 254
+Sending charac req to 257
+Sending charac req to 260
+Sending charac req to 263
+Sending charac req to 266
+Sending charac req to 269
+Sending charac req to 272
+Sending charac req to 275
+Sending charac req to 278
+Sending charac req to 281
+Sending charac req to 284
+Sending charac req to 285
+Sending charac req to 288
+Sending charac req to 291
+Sending charac req to 294
+Sending charac req to 297
+Sending charac req to 300
+Sending charac req to 303
+Sending charac req to 306
+Sending charac req to 309
+Sending charac req to 312
+Sending charac req to 7
+Sending charac req to 10
+Sending charac req to 13
+Sending charac req to 16
+Sending charac req to 19
+Sending charac req to 22
+Sending charac req to 25
+Sending charac req to 28
+Sending charac req to 31
+Sending charac req to 34
+Sending charac req to 38
+Sending charac req to 41
+Sending charac req to 44
+Sending charac req to 47
+Sending charac req to 50
+Sending charac req to 53
+Sending charac req to 56
+Sending charac req to 59
+Sending charac req to 62
+Sending charac req to 65
+Sending charac req to 69
+Sending charac req to 72
+Sending charac req to 75
+Sending charac req to 78
+Sending charac req to 81
+Sending charac req to 84
+Sending charac req to 87
+Sending charac req to 90
+Sending charac req to 93
+Sending charac req to 96
+Sending charac req to 100
+Sending charac req to 103
+Sending charac req to 106
+Sending charac req to 109
+Sending charac req to 112
+Sending charac req to 115
+Sending charac req to 118
+Sending charac req to 121
+Sending charac req to 124
+Sending charac req to 127
+Sending charac req to 131
+Sending charac req to 134
+Sending charac req to 137
+Sending charac req to 140
+Sending charac req to 143
+Sending charac req to 146
+Sending charac req to 149
+Sending charac req to 152
+Sending charac req to 155
+Sending charac req to 158
+Sending charac req to 162
+Sending charac req to 165
+Sending charac req to 168
+Sending charac req to 171
+Sending charac req to 174
+Sending charac req to 177
+Sending charac req to 180
+Sending charac req to 183
+Sending charac req to 186
+Sending charac req to 189
+Sending charac req to 193
+Sending charac req to 196
+Sending charac req to 199
+Sending charac req to 202
+Sending charac req to 205
+Sending charac req to 208
+Sending charac req to 211
+Sending charac req to 214
+Sending charac req to 217
+Sending charac req to 220
+Sending charac req to 224
+Sending charac req to 227
+Sending charac req to 230
+Sending charac req to 233
+Sending charac req to 236
+Sending charac req to 239
+Sending charac req to 242
+Sending charac req to 245
+Sending charac req to 248
+Sending charac req to 251
+Sending charac req to 255
+Sending charac req to 258
+Sending charac req to 261
+Sending charac req to 264
+Sending charac req to 267
+Sending charac req to 270
+Sending charac req to 273
+Sending charac req to 276
+Sending charac req to 279
+Sending charac req to 282
+Sending charac req to 286
+Sending charac req to 289
+Sending charac req to 292
+Sending charac req to 295
+Sending charac req to 298
+Sending charac req to 301
+Sending charac req to 304
+Sending charac req to 307
+Sending charac req to 310
+Sending charac req to 313
+Sending charac req to 8
+Sending charac req to 11
+Sending charac req to 14
+Sending charac req to 17
+Sending charac req to 20
+Sending charac req to 23
+Sending charac req to 26
+Sending charac req to 29
+Sending charac req to 32
+Sending charac req to 35
+Sending charac req to 39
+Sending charac req to 42
+Sending charac req to 45
+Sending charac req to 48
+Sending charac req to 51
+Sending charac req to 54
+Sending charac req to 57
+Sending charac req to 60
+Sending charac req to 63
+Sending charac req to 66
+Sending charac req to 70
+Sending charac req to 73
+Sending charac req to 76
+Sending charac req to 79
+Sending charac req to 82
+Sending charac req to 85
+Sending charac req to 88
+Sending charac req to 91
+Sending charac req to 94
+Sending charac req to 97
+Sending charac req to 101
+Sending charac req to 104
+Sending charac req to 107
+Sending charac req to 110
+Sending charac req to 113
+Sending charac req to 116
+Sending charac req to 119
+Sending charac req to 122
+Sending charac req to 125
+Sending charac req to 128
+Sending charac req to 132
+Sending charac req to 135
+Sending charac req to 138
+Sending charac req to 141
+Sending charac req to 144
+Sending charac req to 147
+Sending charac req to 150
+Sending charac req to 153
+Sending charac req to 156
+Sending charac req to 159
+Sending charac req to 163
+Sending charac req to 166
+Sending charac req to 169
+Sending charac req to 172
+Sending charac req to 175
+Sending charac req to 178
+Sending charac req to 181
+Sending charac req to 184
+Sending charac req to 187
+Sending charac req to 190
+Sending charac req to 194
+Sending charac req to 197
+Sending charac req to 200
+Sending charac req to 203
+Sending charac req to 206
+Sending charac req to 209
+Sending charac req to 212
+Sending charac req to 215
+Sending charac req to 218
+Sending charac req to 221
+Sending charac req to 225
+Sending charac req to 228
+Sending charac req to 231
+Sending charac req to 234
+Sending charac req to 237
+Sending charac req to 240
+Sending charac req to 243
+Sending charac req to 246
+Sending charac req to 249
+Sending charac req to 252
+Sending charac req to 256
+Sending charac req to 259
+Sending charac req to 262
+Sending charac req to 265
+Sending charac req to 268
+Sending charac req to 271
+Sending charac req to 274
+Sending charac req to 277
+Sending charac req to 280
+Sending charac req to 283
+Sending charac req to 287
+Sending charac req to 290
+Sending charac req to 293
+Sending charac req to 296
+Sending charac req to 299
+Sending charac req to 302
+Sending charac req to 305
+Sending charac req to 308
+Sending charac req to 311
+Sending charac req to 314
+s-0-0 received charac req
+s-0-1 received charac req
+s-0-2 received charac req
+s-0-3 received charac req
+s-0-4 received charac req
+s-0-5 received charac req
+s-0-6 received charac req
+s-0-7 received charac req
+s-0-8 received charac req
+s-0-9 received charac req
+s-1-0 received charac req
+s-1-1 received charac req
+s-1-2 received charac req
+s-1-3 received charac req
+s-1-4 received charac req
+s-1-5 received charac req
+s-1-6 received charac req
+s-1-7 received charac req
+s-1-8 received charac req
+s-1-9 received charac req
+s-2-0 received charac req
+s-2-1 received charac req
+s-2-2 received charac req
+s-2-3 received charac req
+s-2-4 received charac req
+s-2-5 received charac req
+s-2-6 received charac req
+s-2-7 received charac req
+s-2-8 received charac req
+s-2-9 received charac req
+s-3-0 received charac req
+s-3-1 received charac req
+s-3-2 received charac req
+s-3-3 received charac req
+s-3-4 received charac req
+s-3-5 received charac req
+s-3-6 received charac req
+s-3-7 received charac req
+s-3-8 received charac req
+s-3-9 received charac req
+s-4-0 received charac req
+s-4-1 received charac req
+s-4-2 received charac req
+s-4-3 received charac req
+s-4-4 received charac req
+s-4-5 received charac req
+s-4-6 received charac req
+s-4-7 received charac req
+s-4-8 received charac req
+s-4-9 received charac req
+s-5-0 received charac req
+s-5-1 received charac req
+s-5-2 received charac req
+s-5-3 received charac req
+s-5-4 received charac req
+s-5-5 received charac req
+s-5-6 received charac req
+s-5-7 received charac req
+s-5-8 received charac req
+s-5-9 received charac req
+s-6-0 received charac req
+s-6-1 received charac req
+s-6-2 received charac req
+s-6-3 received charac req
+s-6-4 received charac req
+s-6-5 received charac req
+s-6-6 received charac req
+s-6-7 received charac req
+s-6-8 received charac req
+s-6-9 received charac req
+s-7-0 received charac req
+s-7-1 received charac req
+s-7-2 received charac req
+s-7-3 received charac req
+s-7-4 received charac req
+s-7-5 received charac req
+s-7-6 received charac req
+s-7-7 received charac req
+s-7-8 received charac req
+s-7-9 received charac req
+s-8-0 received charac req
+s-8-1 received charac req
+s-8-2 received charac req
+s-8-3 received charac req
+s-8-4 received charac req
+s-8-5 received charac req
+s-8-6 received charac req
+s-8-7 received charac req
+s-8-8 received charac req
+s-8-9 received charac req
+s-9-0 received charac req
+s-9-1 received charac req
+s-9-2 received charac req
+s-9-3 received charac req
+s-9-4 received charac req
+s-9-5 received charac req
+s-9-6 received charac req
+s-9-7 received charac req
+s-9-8 received charac req
+s-9-9 received charac req
+Received characteristics from 3
+Received characteristics from 4
+Received characteristics from 5
+Received characteristics from 6
+Received characteristics from 7
+Received characteristics from 8
+Received characteristics from 9
+Received characteristics from 10
+Received characteristics from 11
+Received characteristics from 12
+Received characteristics from 13
+Received characteristics from 14
+Received characteristics from 15
+Received characteristics from 16
+Received characteristics from 17
+Received characteristics from 18
+Received characteristics from 19
+Received characteristics from 20
+Received characteristics from 21
+Received characteristics from 22
+Received characteristics from 23
+Received characteristics from 24
+Received characteristics from 25
+Received characteristics from 26
+Received characteristics from 27
+Received characteristics from 28
+Received characteristics from 29
+Received characteristics from 30
+Received characteristics from 31
+Received characteristics from 32
+Received characteristics from 33
+Received characteristics from 34
+Received characteristics from 35
+Received characteristics from 36
+Received characteristics from 37
+Received characteristics from 38
+Received characteristics from 39
+Received characteristics from 40
+Received characteristics from 41
+Received characteristics from 42
+Received characteristics from 43
+Received characteristics from 44
+Received characteristics from 45
+Received characteristics from 46
+Received characteristics from 47
+Received characteristics from 48
+Received characteristics from 49
+Received characteristics from 50
+Received characteristics from 51
+Received characteristics from 52
+Received characteristics from 53
+Received characteristics from 54
+Received characteristics from 55
+Received characteristics from 56
+Received characteristics from 57
+Received characteristics from 58
+Received characteristics from 59
+Received characteristics from 60
+Received characteristics from 61
+Received characteristics from 62
+Received characteristics from 63
+Received characteristics from 64
+Received characteristics from 65
+Received characteristics from 66
+Received characteristics from 67
+Received characteristics from 68
+Received characteristics from 69
+Received characteristics from 70
+Received characteristics from 71
+Received characteristics from 72
+Received characteristics from 73
+Received characteristics from 74
+Received characteristics from 75
+Received characteristics from 76
+Received characteristics from 77
+Received characteristics from 78
+Received characteristics from 79
+Received characteristics from 80
+Received characteristics from 81
+Received characteristics from 82
+Received characteristics from 83
+Received characteristics from 84
+Received characteristics from 85
+Received characteristics from 86
+Received characteristics from 87
+Received characteristics from 88
+Received characteristics from 89
+Received characteristics from 90
+Received characteristics from 91
+Received characteristics from 92
+Received characteristics from 93
+Received characteristics from 94
+Received characteristics from 95
+Received characteristics from 96
+Received characteristics from 97
+Received characteristics from 98
+Received characteristics from 99
+Received characteristics from 100
+Received characteristics from 101
+Received characteristics from 102
+Received characteristics from 103
+Received characteristics from 104
+Received characteristics from 105
+Received characteristics from 106
+Received characteristics from 107
+Received characteristics from 108
+Received characteristics from 109
+Received characteristics from 110
+Received characteristics from 111
+Received characteristics from 112
+Received characteristics from 113
+Received characteristics from 114
+Received characteristics from 115
+Received characteristics from 116
+Received characteristics from 117
+Received characteristics from 118
+Received characteristics from 119
+Received characteristics from 120
+Received characteristics from 121
+Received characteristics from 122
+Received characteristics from 123
+Received characteristics from 124
+Received characteristics from 125
+Received characteristics from 126
+Received characteristics from 127
+Received characteristics from 128
+Received characteristics from 129
+Received characteristics from 130
+Received characteristics from 131
+Received characteristics from 132
+Received characteristics from 133
+Received characteristics from 134
+Received characteristics from 135
+Received characteristics from 136
+Received characteristics from 137
+Received characteristics from 138
+Received characteristics from 139
+Received characteristics from 140
+Received characteristics from 141
+Received characteristics from 142
+Received characteristics from 143
+Received characteristics from 144
+Received characteristics from 145
+Received characteristics from 146
+Received characteristics from 147
+Received characteristics from 148
+Received characteristics from 149
+Received characteristics from 150
+Received characteristics from 151
+Received characteristics from 152
+Received characteristics from 153
+Received characteristics from 154
+Received characteristics from 155
+Received characteristics from 156
+Received characteristics from 157
+Received characteristics from 158
+Received characteristics from 159
+Received characteristics from 160
+Received characteristics from 161
+Received characteristics from 162
+Received characteristics from 163
+Received characteristics from 164
+Received characteristics from 165
+Received characteristics from 166
+Received characteristics from 167
+Received characteristics from 168
+Received characteristics from 169
+Received characteristics from 170
+Received characteristics from 171
+Received characteristics from 172
+Received characteristics from 173
+Received characteristics from 174
+Received characteristics from 175
+Received characteristics from 176
+Received characteristics from 177
+Received characteristics from 178
+Received characteristics from 179
+Received characteristics from 180
+Received characteristics from 181
+Received characteristics from 182
+Received characteristics from 183
+Received characteristics from 184
+Received characteristics from 185
+Received characteristics from 186
+Received characteristics from 187
+Received characteristics from 188
+Received characteristics from 189
+Received characteristics from 190
+Received characteristics from 191
+Received characteristics from 192
+Received characteristics from 193
+Received characteristics from 194
+Received characteristics from 195
+Received characteristics from 196
+Received characteristics from 197
+Received characteristics from 198
+Received characteristics from 199
+Received characteristics from 200
+Received characteristics from 201
+Received characteristics from 202
+Received characteristics from 203
+Received characteristics from 204
+Received characteristics from 205
+Received characteristics from 206
+Received characteristics from 207
+Received characteristics from 208
+Received characteristics from 209
+Received characteristics from 210
+Received characteristics from 211
+Received characteristics from 212
+Received characteristics from 213
+Received characteristics from 214
+Received characteristics from 215
+Received characteristics from 216
+Received characteristics from 217
+Received characteristics from 218
+Received characteristics from 219
+Received characteristics from 220
+Received characteristics from 221
+Received characteristics from 222
+Received characteristics from 223
+Received characteristics from 224
+Received characteristics from 225
+Received characteristics from 226
+Received characteristics from 227
+Received characteristics from 228
+Received characteristics from 229
+Received characteristics from 230
+Received characteristics from 231
+Received characteristics from 232
+Received characteristics from 233
+Received characteristics from 234
+Received characteristics from 235
+Received characteristics from 236
+Received characteristics from 237
+Received characteristics from 238
+Received characteristics from 239
+Received characteristics from 240
+Received characteristics from 241
+Received characteristics from 242
+Received characteristics from 243
+Received characteristics from 244
+Received characteristics from 245
+Received characteristics from 246
+Received characteristics from 247
+Received characteristics from 248
+Received characteristics from 249
+Received characteristics from 250
+Received characteristics from 251
+Received characteristics from 252
+Received characteristics from 253
+Received characteristics from 254
+Received characteristics from 255
+Received characteristics from 256
+Received characteristics from 257
+Received characteristics from 258
+Received characteristics from 259
+Received characteristics from 260
+Received characteristics from 261
+Received characteristics from 262
+Received characteristics from 263
+Received characteristics from 264
+Received characteristics from 265
+Received characteristics from 266
+Received characteristics from 267
+Received characteristics from 268
+Received characteristics from 269
+Received characteristics from 270
+Received characteristics from 271
+Received characteristics from 272
+Received characteristics from 273
+Received characteristics from 274
+Received characteristics from 275
+Received characteristics from 276
+Received characteristics from 277
+Received characteristics from 278
+Received characteristics from 279
+Received characteristics from 280
+Received characteristics from 281
+Received characteristics from 282
+Received characteristics from 283
+Received characteristics from 284
+Received characteristics from 285
+Received characteristics from 286
+Received characteristics from 287
+Received characteristics from 288
+Received characteristics from 289
+Received characteristics from 290
+Received characteristics from 291
+Received characteristics from 292
+Received characteristics from 293
+Received characteristics from 294
+Received characteristics from 295
+Received characteristics from 296
+Received characteristics from 297
+Received characteristics from 298
+Received characteristics from 299
+Received characteristics from 300
+Received characteristics from 301
+Received characteristics from 302
+Received characteristics from 303
+Received characteristics from 304
+Received characteristics from 305
+Received characteristics from 306
+Received characteristics from 307
+Received characteristics from 308
+Received characteristics from 309
+Received characteristics from 310
+Received characteristics from 311
+Received characteristics from 312
+Received characteristics from 313
+Received characteristics from 314
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+Cloud ID = 3
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@6c3d685f]}
+{SELF_STATE_UPDATE=[107]}
+cloud Putting module id 273
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 304
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@338f6c7d], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@d1b9cfd]}
+{}
+cloud Putting module id 188
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@fdfacc4]}
+{SELF_STATE_UPDATE=[8]}
+cloud Putting module id 123
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@25c78000], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@4ca49360]}
+{}
+cloud Putting module id 209
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@48c7aaef]}
+{SELF_STATE_UPDATE=[302]}
+cloud Putting module id 225
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 169
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@2ca7563d]}
+{SELF_STATE_UPDATE=[63]}
+cloud Putting module id 228
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 316
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 328
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 127
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@1e0ed5b2]}
+{SELF_STATE_UPDATE=[88]}
+cloud Putting module id 249
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 196
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 157
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 367
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@5fefa888]}
+{SELF_STATE_UPDATE=[194]}
+cloud Putting module id 366
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@6f21a9ec]}
+{SELF_STATE_UPDATE=[104]}
+cloud Putting module id 261
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@b1afdf4], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@1916a3de]}
+{}
+cloud Putting module id 368
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@1d6050b0], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@1e5161e1]}
+{}
+cloud Putting module id 140
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 334
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 130
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 295
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 379
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 151
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@70f10a53]}
+{SELF_STATE_UPDATE=[54]}
+cloud Putting module id 210
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 253
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@60dd0912], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@4f7eae6c]}
+{}
+cloud Putting module id 401
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 133
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 325
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 244
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@5ed5d3a]}
+{SELF_STATE_UPDATE=[314]}
+cloud Putting module id 189
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@22838de0]}
+{SELF_STATE_UPDATE=[190]}
+cloud Putting module id 342
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@6ad77ed3], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@69c78571]}
+{}
+cloud Putting module id 128
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@2a09f3f8]}
+{SELF_STATE_UPDATE=[206]}
+cloud Putting module id 354
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 232
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@73703457], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@4b7c76f6]}
+{}
+cloud Putting module id 203
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@58663731]}
+{SELF_STATE_UPDATE=[11]}
+cloud Putting module id 132
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@1eb19f4e], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@1f51c9a0]}
+{}
+cloud Putting module id 122
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@328c3770]}
+{SELF_STATE_UPDATE=[125]}
+cloud Putting module id 288
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@138bb3fd], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@38d5b111]}
+{}
+cloud Putting module id 119
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 382
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@555bf03d], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@6f96093]}
+{}
+cloud Putting module id 155
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@5e335678]}
+{SELF_STATE_UPDATE=[70]}
+cloud Putting module id 231
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@7c721098]}
+{SELF_STATE_UPDATE=[79]}
+cloud Putting module id 237
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@249faafc]}
+{SELF_STATE_UPDATE=[225]}
+cloud Putting module id 399
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@6e92992c]}
+{SELF_STATE_UPDATE=[181]}
+cloud Putting module id 351
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@5a86506a], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@28098d94]}
+{}
+cloud Putting module id 182
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@b2e0415]}
+{SELF_STATE_UPDATE=[197]}
+cloud Putting module id 360
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@7a0e046e]}
+{SELF_STATE_UPDATE=[76]}
+cloud Putting module id 243
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@2e45105c]}
+{SELF_STATE_UPDATE=[122]}
+cloud Putting module id 291
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 370
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@38351fbf], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@27b7516d]}
+{}
+cloud Putting module id 320
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@7442df79]}
+{SELF_STATE_UPDATE=[283]}
+cloud Putting module id 129
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@525dbc90]}
+{SELF_STATE_UPDATE=[249]}
+cloud Putting module id 408
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 181
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@806bc2f], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@722cb5c6]}
+{}
+cloud Putting module id 413
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@555214b9], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@7fcea971]}
+{}
+cloud Putting module id 143
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@58d67b44]}
+{SELF_STATE_UPDATE=[153]}
+cloud Putting module id 309
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@6936daec], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@105ef1eb]}
+{}
+cloud Putting module id 338
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@495c83b2], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@58ca40be]}
+{}
+cloud Putting module id 260
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 385
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@4660a77c], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@7393e1fc]}
+{}
+cloud Putting module id 344
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@71d9a2ab], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@746c2f2]}
+{}
+cloud Putting module id 227
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@36a8a199], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@79095fd7]}
+{}
+cloud Putting module id 149
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@56735a55], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@2f2faeca]}
+{}
+cloud Putting module id 365
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 313
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@637c67f9]}
+{SELF_STATE_UPDATE=[299]}
+cloud Putting module id 219
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@7c8e3f75], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@5ee85a35]}
+{}
+cloud Putting module id 296
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@687a7e40], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@41f6d156]}
+{}
+cloud Putting module id 287
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@332986ef]}
+{SELF_STATE_UPDATE=[262]}
+cloud Putting module id 150
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 388
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@6b59cf26]}
+{SELF_STATE_UPDATE=[218]}
+cloud Putting module id 372
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 199
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 289
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@552efed9]}
+{SELF_STATE_UPDATE=[200]}
+cloud Putting module id 363
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 208
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 148
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 223
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@5d8440], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@7b9585ef]}
+{}
+cloud Putting module id 353
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@158c4d4c], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@2e26c3a1]}
+{}
+cloud Putting module id 224
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@72f596b2]}
+{SELF_STATE_UPDATE=[290]}
+cloud Putting module id 204
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@5978bb14], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@5424bf0]}
+{}
+cloud Putting module id 272
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@43877c42], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@73eef3b0]}
+{}
+cloud Putting module id 281
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@4cc0e346]}
+{SELF_STATE_UPDATE=[156]}
+cloud Putting module id 312
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@b893008], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@5bb06322]}
+{}
+cloud Putting module id 383
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@193c7c35], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@51fe8884]}
+{}
+cloud Putting module id 269
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@1db4bc2a]}
+{SELF_STATE_UPDATE=[172]}
+cloud Putting module id 324
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 352
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@44ad78a2], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@58caf6e7]}
+{}
+cloud Putting module id 116
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@7517e53b]}
+{SELF_STATE_UPDATE=[26]}
+cloud Putting module id 156
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@73cac08b], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@4272111]}
+{}
+cloud Putting module id 326
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 217
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@24ebe538]}
+{SELF_STATE_UPDATE=[94]}
+cloud Putting module id 255
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 355
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@7b15d277]}
+{SELF_STATE_UPDATE=[141]}
+cloud Putting module id 297
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@55acc1c2], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@40e4d37f]}
+{}
+cloud Putting module id 251
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@6ef95821]}
+{SELF_STATE_UPDATE=[128]}
+cloud Putting module id 285
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@34091772], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@40e2580e]}
+{}
+cloud Putting module id 239
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 259
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@4c032069], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@6144f47b]}
+{}
+cloud Putting module id 290
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 145
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 205
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@760ee920], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@4ceb706d]}
+{}
+cloud Putting module id 404
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@75222b8e], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@1659b3b6]}
+{}
+cloud Putting module id 380
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@5b257d30]}
+{SELF_STATE_UPDATE=[66]}
+cloud Putting module id 234
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@7a3e090f]}
+{SELF_STATE_UPDATE=[187]}
+cloud Putting module id 339
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@7ec4f67b]}
+{SELF_STATE_UPDATE=[39]}
+cloud Putting module id 183
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@35124642], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@42c2b246]}
+{}
+cloud Putting module id 236
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@7c4633e7], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@64f9c26e]}
+{}
+cloud Putting module id 233
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@494bf78c], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@1a692dec]}
+{}
+cloud Putting module id 263
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@6f45ee7f], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@582d0ceb]}
+{}
+cloud Putting module id 194
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@75ab4586]}
+{SELF_STATE_UPDATE=[274]}
+cloud Putting module id 117
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@3f619cc4]}
+{SELF_STATE_UPDATE=[150]}
+cloud Putting module id 321
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@217b285e], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@1c97447e]}
+{}
+cloud Putting module id 125
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@f11badc]}
+{SELF_STATE_UPDATE=[138]}
+cloud Putting module id 294
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@5502c93e], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@29ea310c]}
+{}
+cloud Putting module id 305
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@4e3a2053]}
+{SELF_STATE_UPDATE=[178]}
+cloud Putting module id 345
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@4a205144]}
+{SELF_STATE_UPDATE=[311]}
+cloud Putting module id 186
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@fb76d61]}
+{SELF_STATE_UPDATE=[237]}
+cloud Putting module id 387
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@536e0356]}
+{SELF_STATE_UPDATE=[246]}
+cloud Putting module id 411
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 310
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@5b9d2de4], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@2c3002b9]}
+{}
+cloud Putting module id 392
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 271
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 154
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@402d659], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@56466f1d]}
+{}
+cloud Putting module id 191
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 415
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@2a29052b]}
+{SELF_STATE_UPDATE=[256]}
+cloud Putting module id 402
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 190
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 400
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 241
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@6b125fac], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@3474c1f]}
+{}
+cloud Putting module id 386
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@3dd688e7], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@4fb61568]}
+{}
+cloud Putting module id 314
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@3b3787ba], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@3aafe2b5]}
+{}
+cloud Putting module id 173
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@714cf72c]}
+{SELF_STATE_UPDATE=[110]}
+cloud Putting module id 270
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@73f7a3d0]}
+{SELF_STATE_UPDATE=[215]}
+cloud Putting module id 375
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 337
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@723e82b], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@465f62b6]}
+{}
+cloud Putting module id 185
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@2049bed2], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@498edd8d]}
+{}
+cloud Putting module id 398
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@427379b5], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@2b3b7c28]}
+{}
+cloud Putting module id 215
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@4e543c44]}
+{SELF_STATE_UPDATE=[91]}
+cloud Putting module id 258
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@7c40bc88], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@7e19c472]}
+{}
+cloud Putting module id 293
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@4db0590b]}
+{SELF_STATE_UPDATE=[280]}
+cloud Putting module id 120
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@74a60905]}
+{SELF_STATE_UPDATE=[175]}
+cloud Putting module id 330
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 184
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 235
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 280
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@409a6317]}
+{SELF_STATE_UPDATE=[35]}
+cloud Putting module id 174
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 268
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 394
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@57df9c23], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@1983eae7]}
+{}
+cloud Putting module id 137
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 220
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 412
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@23b2f0c7]}
+{SELF_STATE_UPDATE=[159]}
+cloud Putting module id 315
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@38ddab20], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@610ddf0a]}
+{}
+cloud Putting module id 311
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@55ae3b4d], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@21b7682d]}
+{}
+cloud Putting module id 275
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@101873a6]}
+{SELF_STATE_UPDATE=[23]}
+cloud Putting module id 153
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 391
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@35509f8b], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@401a7a05]}
+{}
+cloud Putting module id 212
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 346
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@a40ff24], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@312e99be]}
+{}
+cloud Putting module id 221
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@6a6fa22b]}
+{SELF_STATE_UPDATE=[42]}
+cloud Putting module id 192
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@46ffeba4]}
+{SELF_STATE_UPDATE=[265]}
+cloud Putting module id 162
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@4bc78066], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@16becf68]}
+{}
+cloud Putting module id 341
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@4922c082]}
+{SELF_STATE_UPDATE=[116]}
+cloud Putting module id 279
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@88cbc51]}
+{SELF_STATE_UPDATE=[163]}
+cloud Putting module id 333
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@4f9f6e39]}
+{SELF_STATE_UPDATE=[221]}
+cloud Putting module id 369
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 136
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@6bfd8905]}
+{SELF_STATE_UPDATE=[20]}
+cloud Putting module id 147
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@522edea6]}
+{SELF_STATE_UPDATE=[119]}
+cloud Putting module id 276
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@31b8e71], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@6249e4f]}
+{}
+cloud Putting module id 257
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@4e1557af]}
+{SELF_STATE_UPDATE=[113]}
+cloud Putting module id 282
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@5b2fca35], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@1e848c58]}
+{}
+cloud Putting module id 308
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@1019f50f], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@1827b40b]}
+{}
+cloud Putting module id 374
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 118
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@569d4a90], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@708a605c]}
+{}
+cloud Putting module id 248
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@cbc71bd], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@27cf35d3]}
+{}
+cloud Putting module id 410
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@14d6c410]}
+{SELF_STATE_UPDATE=[228]}
+cloud Putting module id 396
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@1fe20120]}
+{SELF_STATE_UPDATE=[243]}
+cloud Putting module id 414
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 373
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 193
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@2eb7ec3a]}
+{SELF_STATE_UPDATE=[132]}
+cloud Putting module id 303
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@2cf5ebcc], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@454bb523]}
+{}
+cloud Putting module id 164
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@6d61305f]}
+{SELF_STATE_UPDATE=[29]}
+cloud Putting module id 168
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@7aee513]}
+{SELF_STATE_UPDATE=[17]}
+cloud Putting module id 144
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 283
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 349
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@6b414655], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@a70ad76]}
+{}
+cloud Putting module id 356
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@6b8c2354], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@3d6396f5]}
+{}
+cloud Putting module id 323
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@554bce4f]}
+{SELF_STATE_UPDATE=[82]}
+cloud Putting module id 252
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@63d5d048], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@6a5d5a2c]}
+{}
+cloud Putting module id 407
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@16cb3542]}
+{SELF_STATE_UPDATE=[271]}
+cloud Putting module id 165
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@77158bbe], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@2789a406]}
+{}
+cloud Putting module id 200
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@3d6f9a31], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@69f42679]}
+{}
+cloud Putting module id 230
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@1c0a0847], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@56a57bb2]}
+{}
+cloud Putting module id 146
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 409
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 142
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@a5c0f8f]}
+{SELF_STATE_UPDATE=[268]}
+cloud Putting module id 159
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@22017a99], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@f17e440]}
+{}
+cloud Putting module id 278
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@698a2d7d], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@6eb09fac]}
+{}
+cloud Putting module id 131
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 358
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 187
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 322
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@dc30dfa]}
+{SELF_STATE_UPDATE=[240]}
+cloud Putting module id 384
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@ca9f25]}
+{SELF_STATE_UPDATE=[169]}
+cloud Putting module id 327
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@7696368a], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@7fd6dad8]}
+{}
+cloud Putting module id 254
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@72b9dc79]}
+{SELF_STATE_UPDATE=[45]}
+cloud Putting module id 198
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@839c6c7]}
+{SELF_STATE_UPDATE=[293]}
+cloud Putting module id 207
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@9293709]}
+{SELF_STATE_UPDATE=[252]}
+cloud Putting module id 405
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 364
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@70dc3491], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@8ff557a]}
+{}
+cloud Putting module id 158
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@3344c133], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@66e81590]}
+{}
+cloud Putting module id 284
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@edfd5b8], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@9482aa9]}
+{}
+cloud Putting module id 134
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@60e8c201]}
+{SELF_STATE_UPDATE=[32]}
+cloud Putting module id 171
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@5119015b]}
+{SELF_STATE_UPDATE=[144]}
+cloud Putting module id 300
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@40a826f5]}
+{SELF_STATE_UPDATE=[277]}
+cloud Putting module id 126
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 250
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 403
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@5f95bffc]}
+{SELF_STATE_UPDATE=[97]}
+cloud Putting module id 267
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 319
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 361
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 265
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 331
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@606f6a6a], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@32b3869c]}
+{}
+cloud Putting module id 197
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 292
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 406
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@284a85c5]}
+{SELF_STATE_UPDATE=[234]}
+cloud Putting module id 390
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@34945d2d], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@78715052]}
+{}
+cloud Putting module id 170
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@57507544]}
+{SELF_STATE_UPDATE=[57]}
+cloud Putting module id 222
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@6342f024], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@3fa3fe65]}
+{}
+cloud Putting module id 302
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@2792b987], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@11d2625d]}
+{}
+cloud Putting module id 179
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 298
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 124
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@b37d0cf], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@7d6dcbc9]}
+{}
+cloud Putting module id 161
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 307
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 214
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 226
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@335e3974]}
+{SELF_STATE_UPDATE=[135]}
+cloud Putting module id 306
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 163
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@6f0e0904]}
+{SELF_STATE_UPDATE=[209]}
+cloud Putting module id 378
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 229
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@2721e92], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@1235047f]}
+{}
+cloud Putting module id 395
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 301
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@56ba372f]}
+{SELF_STATE_UPDATE=[166]}
+cloud Putting module id 336
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@5b7d1b24], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@72810768]}
+{}
+cloud Putting module id 167
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@750d7792]}
+{SELF_STATE_UPDATE=[287]}
+cloud Putting module id 138
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 256
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 277
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@47254e47]}
+{SELF_STATE_UPDATE=[203]}
+cloud Putting module id 357
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@62363bce], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@569083c1]}
+{}
+cloud Putting module id 389
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 286
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 238
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 340
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@29ba204d], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@7a9eb4a1]}
+{}
+cloud Putting module id 377
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@4964f4eb], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@30b95f2]}
+{}
+cloud Putting module id 245
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 172
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@6da1446d], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@76938855]}
+{}
+cloud Putting module id 332
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 202
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@4fdbc144], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@646d8051]}
+{}
+cloud Putting module id 299
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 139
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 178
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@51037959], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@3b13eb9c]}
+{}
+cloud Putting module id 152
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 343
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@18d16d11], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@5d4f83d1]}
+{}
+cloud Putting module id 347
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@f573e33], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@28b48e23]}
+{}
+cloud Putting module id 350
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@65dfb0b5], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@40ca6f53]}
+{}
+cloud Putting module id 329
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 166
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@2a52d360]}
+{SELF_STATE_UPDATE=[51]}
+cloud Putting module id 201
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@23b35955]}
+{SELF_STATE_UPDATE=[305]}
+cloud Putting module id 177
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@53adedc2]}
+{SELF_STATE_UPDATE=[101]}
+cloud Putting module id 264
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@3fd48679]}
+{SELF_STATE_UPDATE=[184]}
+cloud Putting module id 348
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@19c892ac], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@3f15676d]}
+{}
+cloud Putting module id 362
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@16394576], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@9ff5160]}
+{}
+cloud Putting module id 335
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@59377ac0]}
+{SELF_STATE_UPDATE=[296]}
+cloud Putting module id 213
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 211
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@495c0102], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@37464fee]}
+{}
+cloud Putting module id 206
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 397
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@6929ae9b], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@2f86780d]}
+{}
+cloud Putting module id 371
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@2533b5db]}
+{SELF_STATE_UPDATE=[147]}
+cloud Putting module id 318
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@65e84ff1], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@76d88b7b]}
+{}
+cloud Putting module id 242
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@2ad7532], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@49e926fd]}
+{}
+cloud Putting module id 359
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@69fed1f3]}
+{SELF_STATE_UPDATE=[308]}
+cloud Putting module id 180
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 274
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@5889dee2]}
+{SELF_STATE_UPDATE=[212]}
+cloud Putting module id 381
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@4387f4d7]}
+{SELF_STATE_UPDATE=[231]}
+cloud Putting module id 393
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@12db71e4], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@5123968]}
+{}
+cloud Putting module id 176
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 121
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 247
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@6f76dd71]}
+{SELF_STATE_UPDATE=[48]}
+cloud Putting module id 195
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 175
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 160
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@64c45ee2]}
+{SELF_STATE_UPDATE=[85]}
+cloud Putting module id 246
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@18317b1d], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@5889b953]}
+{}
+cloud Putting module id 317
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@39e6258e]}
+{SELF_STATE_UPDATE=[73]}
+cloud Putting module id 240
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@34abab54]}
+{SELF_STATE_UPDATE=[14]}
+cloud Putting module id 135
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 262
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@727d32cf]}
+{SELF_STATE_UPDATE=[259]}
+cloud Putting module id 141
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@7992eec1], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@1d78ff42]}
+{}
+cloud Putting module id 266
+cloud : client arrived --> {_SENSOR=[org.fog.utils.AppModuleAddress@72be552b]}
+{SELF_STATE_UPDATE=[60]}
+cloud Putting module id 216
+cloud : connector arrived --> {}
+{}
+cloud Putting module id 376
+cloud : concentration_calculator arrived --> {CONCENTRATION=[org.fog.utils.AppModuleAddress@2dc9b4e7], PLAYER_GAME_STATE=[org.fog.utils.AppModuleAddress@1583c12d]}
+{}
+cloud Putting module id 218
+java.lang.NullPointerException
+	at org.fog.entities.Sensor.transmit(Sensor.java:155)
+	at org.fog.entities.Sensor.processEvent(Sensor.java:200)
+	at org.cloudbus.cloudsim.core.SimEntity.run(SimEntity.java:407)
+	at org.cloudbus.cloudsim.core.CloudSim.runClockTick(CloudSim.java:518)
+	at org.cloudbus.cloudsim.core.CloudSim.run(CloudSim.java:883)
+	at org.cloudbus.cloudsim.core.CloudSim.startSimulation(CloudSim.java:188)
+	at org.fog.test.perfeval.OnlyUpVRGameFog.main(OnlyUpVRGameFog.java:119)
